@@ -1,0 +1,31 @@
+body {
+   background-image: url(../images/bg-desktop.svg); 
+   background-color: #674BB1;
+   color:#fff;
+}
+
+.Buttons {
+   border-radius: 28px;
+   box-shadow: 10px 5px 5px #4e3988;
+   color: #674BB1;
+   text-shadow:0px 1px 0px #ffffff;
+}
+
+   /*Header section*/
+#Header {
+	padding: 5% 1%;	
+}
+.image {
+	width: 100%;
+}
+.Community {
+	padding: 0% 7%  ;
+	line-height: 25px;
+}
+   /*Footer section*/
+#footer {
+	text-align: center;	 
+}
+.social-icon {
+	margin: 10px;
+}
